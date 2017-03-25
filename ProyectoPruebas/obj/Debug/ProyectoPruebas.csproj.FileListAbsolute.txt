@@ -1,0 +1,7 @@
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\bin\Debug\ProyectoPruebas.dll
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\bin\Debug\ProyectoPruebas.pdb
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.csprojResolveAssemblyReference.cache
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.dll
+c:\users\20110668\documents\visual studio 2015\Projects\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.pdb
